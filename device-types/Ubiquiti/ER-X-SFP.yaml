@@ -1,7 +1,8 @@
 ---
 manufacturer: Ubiquiti
-model: ER-X-SFP
-slug: ubiquiti-er-x-sfp
+model: EdgeRouter X SFP
+slug: ubiquiti-edgerouter-x-sfp
+part_number: er-x-sfp
 u_height: 1
 weight: 215
 weight_unit: g
